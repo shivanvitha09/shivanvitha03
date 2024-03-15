@@ -1,0 +1,91 @@
+
+.face{
+    height:300px;
+    width:300px;
+    background:pink;
+    border-radius:500px;
+    position :absolute;
+    margin-top:-100px;
+    margin-left:470px;
+    border:3px solid black;
+
+}
+.eyes{
+    display:flex;
+    justify-content:space-evenly;
+    padding-top:70px;
+}
+.leye{
+    height:50px;
+    width:50px;
+    background:white;
+    border-radius:500px;
+}
+
+.reye{
+    height:50px;
+    width:50px;
+    background:white;
+    border-radius:500px;
+}
+.lelid,.relid{
+    height:25px;
+    width:25px;
+    background:black;
+    border-radius:500px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.nose{
+    display:flex;
+    height:50px;
+    width:120px;
+    background: red;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 50px;
+    border:2px solid black;
+}
+.leftnose{
+    height:40px;
+    width:40px;
+    background:black;
+    border-radius:500px;
+    margin:auto;
+
+
+}
+.rightnose{
+    height:40px;
+    width:40px;
+    background:black;
+    border-radius:500px;
+    margin:auto;
+}
+
+.ears{
+    display:flex;
+    justify-content:space-evenly;
+    width:300px;
+    margin:auto;
+}
+
+.leftear{
+    background-color:pink;
+    border-color:black;
+    height:150px;
+    width:100px;
+    border-radius:60px;
+    border:3px solid black;
+
+}
+.rightear{
+    background-color:pink;
+    border-color:black;
+    height:150px;
+    width:100px;
+    border-radius:60px;
+    border:3px solid black;
+
+}
